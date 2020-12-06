@@ -136,10 +136,10 @@
                         <version>2.2.0</version>
                         <configuration>
                             <to>
-                                <image>${khaledamirat}/continuous-integration</image>
+                                <image>khaledamirat/continuous-integration</image>
                                 <tags>
                                     <tag>${project.version}</tag>
-                                    <tag>0.0.1-SNAPSHOT</tag>
+                                    <tag>latest</tag>
                                 </tags>
                             </to>
                         </configuration>
