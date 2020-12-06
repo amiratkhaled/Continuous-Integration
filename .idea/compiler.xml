@@ -16,7 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Continuous-Integration" target="11" />
+      <module name="Continuous-Integration" target="8" />
       <module name="wrapper" target="1.5" />
     </bytecodeTargetLevel>
   </component>
